@@ -68,7 +68,7 @@ pnpm docs:preview
 
 ## 🌐 Online Demo
 
-[View Online Demo](https://vitepress-template.oby.ink)
+[View Online Demo](https://vitepress.oby.cc.cd)
 
 ## 📁 Project Structure
 
