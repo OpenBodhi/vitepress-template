@@ -68,7 +68,7 @@ pnpm docs:preview
 
 ## 🌐 在线演示
 
-[查看在线演示](https://vitepress-template.oby.ink)
+[查看在线演示](https://vitepress.oby.cc.cd)
 
 ## 📁 项目结构
 
